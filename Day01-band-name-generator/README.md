@@ -20,4 +20,10 @@ Bhubaneswar<br>
 What's the name of your pet?<br>
 jinx<br>
 Your band name could be Bhubaneswar jinx<br>
-
+<br>
+How to run:<br>
+Open terminal<br>
+clone my git repo<br>
+move into project folder<br>
+Run the command: " python band_name_generator.py "<br>
+Enter your city name, enter your pet name, get your band name 
