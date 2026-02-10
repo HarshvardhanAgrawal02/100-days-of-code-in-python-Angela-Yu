@@ -8,9 +8,10 @@ The user enters both names and the program prints a band name <br>
 <br>
 What I learned in Day1: <br>
 How to print output using 'print()'<br>
+learned how \n prints new line <br>
 String concatenation<br>
 How to take user input using 'input()'<br>
-Variables and hoow to name a variable<br>
+Variables and how to name a variable<br>
 <br>
 Sample output:<br>
 Welcome to the band name generator<br>
