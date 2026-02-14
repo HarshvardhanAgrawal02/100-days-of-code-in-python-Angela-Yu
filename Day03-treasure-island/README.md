@@ -1,10 +1,10 @@
 # Day 3: Treasure Island
 
-## Description:<br>
+### Description:<br>
 This is a simple treasure humt game in which user have to find the treasure<br>
 by facing different challenges ahead of his journey<br>
 
-## What I learned in Day3: <br>
+### What I learned in Day3: <br>
 if/else Statement<br>
 modulo operator, comparision operators<br>
 nested if/else<br>
@@ -13,7 +13,7 @@ Multiple if statement<br>
                                 pizza order<br>
 Logical operators<br>                                
 
-## sample output:<br>
+### sample output:<br>
 
 <details>
 <summary>Click to see sample game outputs</summary>
@@ -47,7 +47,8 @@ GAME OVER
 
 </details>
 <br>
-## How to run:<br>
+
+ ### How to run:<br>
 Open terminal<br>
 clone my git repo<br>
 move into project folder<br>
