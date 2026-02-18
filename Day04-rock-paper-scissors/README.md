@@ -16,7 +16,7 @@ Nested Lists<br>
 <summary>Click to see sample game outputs</summary>
 
 ```
-What do you choose? Type 0 for Rock, 1 for Paper or 2 for Scissors<br>
+What do you choose? Type 0 for Rock, 1 for Paper or 2 for Scissors
 0
 
     _______
