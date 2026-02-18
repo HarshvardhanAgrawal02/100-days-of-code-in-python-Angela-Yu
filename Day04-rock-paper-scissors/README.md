@@ -14,8 +14,9 @@ Nested Lists<br>
 
 <details>
 <summary>Click to see sample game outputs</summary>
-<br>
-What do you choose? Type 0 for Rock, 1 for Paper or 2 for Scissors
+
+```
+What do you choose? Type 0 for Rock, 1 for Paper or 2 for Scissors<br>
 0
 
     _______
@@ -35,4 +36,6 @@ Computer chooses:
 ---.__(___)
 
 It's a Draw!
+```
 
+</details>
