@@ -46,10 +46,3 @@ GAME OVER
 ```
 
 </details>
-<br>
-
- ### How to run:<br>
-Open terminal<br>
-clone my git repo<br>
-move into project folder<br>
-Run the command: " python treasure_island.py "<br>

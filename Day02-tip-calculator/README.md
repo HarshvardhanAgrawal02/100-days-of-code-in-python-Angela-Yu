@@ -18,14 +18,16 @@ Assignment operator<br>
 f-string<br>
 
 ### Sample output:<br>
+
+<details>
+<summary>Click to see sample game outputs</summary>
+
+```
 Welcome to the tip calculator!<br>
 What was the total bill? Rs.300<br>
 What percent tip would you like to give? 6,15, or 20?15<br>
 How many people to split the bill? 4<br>
 Each person should pay: Rs 86.25<br>
+```
 
-### How to run:<br>
-Open terminal<br>
-clone my git repo<br>
-move into project folder<br>
-Run the command: " python tip_calculator.py "<br>
+</details>

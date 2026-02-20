@@ -14,16 +14,18 @@ How to take user input using 'input()'<br>
 Variables and how to name a variable<br>
 
 ### Sample output:<br>
+
+<details>
+<summary>Click to see sample game outputs</summary>
+
+```
 Welcome to the band name generator<br>
 What's the name of the city you grew up in?<br>
 Bhubaneswar<br>
 What's the name of your pet?<br>
 jinx<br>
 Your band name could be Bhubaneswar jinx<br>
+```
 
-### How to run:<br>
-Open terminal<br>
-clone my git repo<br>
-move into project folder<br>
-Run the command: " python band_name_generator.py "<br>
-Enter your city name, enter your pet name, get your band name 
+<details>
+
