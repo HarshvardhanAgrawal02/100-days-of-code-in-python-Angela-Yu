@@ -4,7 +4,7 @@
 This is python program that will generate a strong password ofr user,<br>
 The user need to only write how many letters,symbols,numbers they need.<br>
 
-### What I learned in Day2: <br>
+### What I learned in Day5: <br>
 for loops<br>
 sum() and max() function<br>
 finding sum and largest number using these function and for loops<br>
@@ -30,3 +30,5 @@ How many numbers would you like?
 ```
 
 </details>
+
+
